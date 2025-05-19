@@ -32,19 +32,12 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidPenagos&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPenagos&layout=compact&theme=radical)
-
----
-
 ### 🎯 Goals for 2025
 
-- Become Grandmaster in ICPC 🏆  
+- Become Grandmaster in Codeforces 🏆  
 - Dominate Web App Pentesting 🔍  
-- Publicar un proyecto open-source de ciberseguridad 💣
+- Publish an open-source CiberSecurity Project 💣
 
 ---
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0xVug/giphy.gif" width="300"/>
+<img src="[https://media.giphy.com/media/kH1DBkPNyZPOk0xVug/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGcxZWtvdWxucG9wZXF3ODBsZmJ2dTd5OTA0OGh3NHJxcnFpenhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif)" width="300"/>
