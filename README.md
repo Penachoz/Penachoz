@@ -14,7 +14,8 @@
 - 📫 Reach me at: **dpenagos0912@gmail.com**  
 - ⚡ Fun fact: **I can’t focus unless my code is indented perfectly**
 </td>
-    <td>
+    <td valign="top" align="right" width="400">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGcxZWtvdWxucG9wZXF3ODBsZmJ2dTd5OTA0OGh3NHJxcnFpenhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="300"/>
     </td>
   </tr>
