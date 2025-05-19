@@ -2,7 +2,9 @@
 <p align="center">💻 Aspiring Cybersecurity Analyst | 🎯 Competitive Programming Lover | 💡 Lifelong Learner</p>
 
 ---
-
+<table>
+  <tr>
+    <td>
 ### 👨‍💻 About Me
 
 - 🔐 I'm currently working on **being a Cybersecurity Analyst**  
@@ -10,7 +12,12 @@
 - 💬 Ask me about **network security, ethical hacking, or secure coding**  
 - 📫 Reach me at: **dpenagos0912@gmail.com**  
 - ⚡ Fun fact: **I can’t focus unless my code is indented perfectly**
-
+</td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGcxZWtvdWxucG9wZXF3ODBsZmJ2dTd5OTA0OGh3NHJxcnFpenhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🌐 Connect with me:
@@ -40,7 +47,5 @@
 - Dominate Web App Pentesting 🔍  
 - Publish an open-source CiberSecurity Project 💣
 
----
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGcxZWtvdWxucG9wZXF3ODBsZmJ2dTd5OTA0OGh3NHJxcnFpenhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="400"/>
-</p>
+
+
