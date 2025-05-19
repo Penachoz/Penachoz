@@ -1,22 +1,22 @@
 <h1 align="center">Hey there 👋, I'm David Penagos</h1>
-<p align="center">💻 Aspiring Cybersecurity Analyst | 🎯 ICPC Challenger | 💡 Lifelong Learner</p>
+<p align="center">💻 Aspiring Cybersecurity Analyst | 🎯 Competitive Programming Lover | 💡 Lifelong Learner</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔐 I'm currently working on **penetration testing simulations and audit reports**  
+- 🔐 I'm currently working on **being a Cybersecurity Analyst**  
 - 📚 I'm currently learning **SOC 2, PCI DSS, and Red Team tactics**  
 - 💬 Ask me about **network security, ethical hacking, or secure coding**  
-- 📫 Reach me at: **penagosdavid@correo.com**  
+- 📫 Reach me at: **dpenagos0912@gmail.com**  
 - ⚡ Fun fact: **I can’t focus unless my code is indented perfectly**
 
 ---
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davidpenagos)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/david-penagos-b30406246)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davpenagos)
 
 ---
 
