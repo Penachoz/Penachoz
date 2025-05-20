@@ -40,6 +40,6 @@
 
 ### 🎯 Goals for 2025
 
-- Become Grandmaster in Codeforces 🏆  
+- Become Master in Codeforces 🏆  
 - Dominate Web App Pentesting 🔍  
 - Publish an open-source CiberSecurity Project 💣
